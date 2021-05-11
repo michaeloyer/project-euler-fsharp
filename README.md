@@ -1,0 +1,1 @@
+Some of the problems I've solved on [Project Euler](https://projecteuler.net) in [F#](https://fsharp.org/). Script files are designed to be run by themselves through running `dotnet fsi [code-file].fsx` or by running each line one at a time (such as with `alt + enter` in VSCode).
